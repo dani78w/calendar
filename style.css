@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1{
+    font-size: 41px;
+    font-weight: 800;
+    color: rgb(69 137 202);
+
+}
+h2{
+    color: rgb(86, 164, 237);
+}
+li{
+
+    font-size: 17px;
+    font-weight: 300;
+    color: rgb(0, 0, 0);
+    padding-top: 10px;
+    padding-left: 10px;
+}
